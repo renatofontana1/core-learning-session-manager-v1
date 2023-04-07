@@ -1,0 +1,17 @@
+com\accenture\ada\sessionManager\sessionmanager\model\SessionContext.class
+com\accenture\ada\sessionManager\sessionmanager\command\GetSessionCommand.class
+com\accenture\ada\sessionManager\sessionmanager\assembler\ContextResourceAssembler.class
+com\accenture\ada\sessionManager\sessionmanager\assembler\SessionIdResourceAssembler.class
+com\accenture\ada\sessionManager\sessionmanager\command\RemoveSessionCommand.class
+com\accenture\ada\sessionManager\sessionmanager\dto\LoginRequest.class
+com\accenture\ada\sessionManager\sessionmanager\exception\UserNotFoundException.class
+com\accenture\ada\sessionManager\sessionmanager\command\CreateSessionCommand.class
+com\accenture\ada\sessionManager\sessionmanager\resource\ContextResource.class
+com\accenture\ada\sessionManager\sessionmanager\exception\SessionNotFoundException.class
+com\accenture\ada\sessionManager\sessionmanager\service\UserService.class
+com\accenture\ada\sessionManager\sessionmanager\controller\SessionManagerController.class
+com\accenture\ada\sessionManager\sessionmanager\repository\UserRepository.class
+com\accenture\ada\sessionManager\sessionmanager\service\UserSessionCacheService.class
+com\accenture\ada\sessionManager\sessionmanager\resource\SessionIdResource.class
+com\accenture\ada\sessionManager\sessionmanager\dto\CreateSessionDto.class
+com\accenture\ada\sessionManager\sessionmanager\model\entity\User.class

@@ -1,0 +1,17 @@
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\dto\LoginRequest.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\command\GetSessionCommand.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\controller\SessionManagerController.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\assembler\ContextResourceAssembler.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\service\UserService.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\exception\UserNotFoundException.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\model\SessionContext.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\command\RemoveSessionCommand.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\service\UserSessionCacheService.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\repository\UserRepository.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\exception\SessionNotFoundException.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\resource\SessionIdResource.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\command\CreateSessionCommand.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\model\entity\User.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\resource\ContextResource.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\assembler\SessionIdResourceAssembler.java
+C:\Users\luca.di.cicco\IdeaProjects\core-learning-session-manager-v1\src\main\java\com\accenture\ada\sessionManager\sessionmanager\dto\CreateSessionDto.java

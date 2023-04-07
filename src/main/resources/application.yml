@@ -1,0 +1,24 @@
+server:
+  port : 8090
+
+
+connectors:
+  jpa:
+      url: jdbc:mysql://localhost:3306/sessionmanager
+      username: user
+      password: password
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      dialect: org.hibernate.dialect.MySQLDialect
+      showSql: true
+      config:
+      maximumPoolSize: 34
+      minimumIdle: 12
+
+logging:
+  level:
+    org.zalando.logbook: TRACE
+    com.zaxxer.hikari.HikariConfig: DEBUG
+
+
+logbook:
+  format.style: json
